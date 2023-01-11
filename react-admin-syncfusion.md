@@ -8,3 +8,4 @@
 - Setting tailwind
 - creating tailwind.config.js file
 - creating craco.config.js
+- download data for chart and others features 20:13
